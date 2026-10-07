@@ -1,4 +1,4 @@
 Repository: SSeoSangwon/DataAnalysisInSportScience
-Description: Fall 2024 · SKKU Data Analysis in Sport Science (SPT5062-41)
+Description: Fall 2024 · SKKU Data Analysis in Sport Science (SPT5062)
 Default branch: main
 Final project: excluded; publish separately

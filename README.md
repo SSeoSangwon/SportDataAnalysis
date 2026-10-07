@@ -1,10 +1,10 @@
 # DataAnalysisInSportScience
 
-**Fall 2024 · SKKU Data Analysis in Sport Science (SPT5062-41)**
+**Fall 2024 · SKKU Data Analysis in Sport Science (SPT5062)**
 
 ## Overview
 
-This repository archives selected weekly R exercises from the SKKU course **Data Analysis in Sport Science (SPT5062-41)**.
+This repository archives selected weekly R exercises from the SKKU course **Data Analysis in Sport Science (SPT5062)**.
 The course covered data collection, regression, panel-data methods, causal inference, matching, and mediation/moderation analysis.
 
 The final project is intentionally maintained separately and is not included in this repository.
