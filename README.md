@@ -1,4 +1,4 @@
-# DataAnalysisInSportScience
+# SportDataAnalysis
 
 **Fall 2024 · SKKU Data Analysis in Sport Science (SPT5062) Weekly Projects**
 
